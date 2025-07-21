@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning Machine Learning and Web Development<br>😁Actively involved in all repositories here! Just getting started with GitHub, so I initially forked some projects from a friend who uploaded them earlier.<br>
+<br>I’m currently learning Machine Learning and Web Development<br>Actively involved in all repositories here! Just getting started with GitHub, so I initially forked some projects from a friend who uploaded them earlier.<br>
 
 
 ## 🌐 Socials:
