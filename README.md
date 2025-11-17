@@ -1,6 +1,3 @@
-# About Me:
-<br>I’m currently learning Machine Learning and Web Development<br>Actively involved in all repositories here! Just getting started with GitHub, so I initially forked some projects from a friend who uploaded them earlier.<br>
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/GaladoBuster#1531) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:k.rajeev8008@gmail.com) 
