@@ -45,6 +45,7 @@
 ![Vector DB](https://img.shields.io/badge/vector%20database-000000?style=for-the-badge)
 ![Pinecone](https://img.shields.io/badge/pinecone-000000?style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/supabase-3FCF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools
 
