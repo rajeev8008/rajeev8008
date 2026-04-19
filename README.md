@@ -1,5 +1,7 @@
-### Email
+### Socials
 k.rajeev8008@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajeev%20K-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rajeev-k-966b70294)
 
 ## Tech Stack
 
